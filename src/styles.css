@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 1em;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: white;
+  font-weight: 600;
+}
+
+.primary-btn {
+  background-color: #537fe7;
+}
+
+.secondary-btn {
+  background-color: #181823;
+}
+
+.primary-update-btn {
+  background-color: #16c79a;
+}
+
+.secondary-update-btn {
+  background-color: #456268;
+}
